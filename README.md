@@ -1,4 +1,4 @@
-# Credit Card Financial Analysis – Customer, Transaction & Risk Analytics
+# Credit Card Financial Analysis
 
 ## Project Overview
 This project focuses on evaluating credit card client behaviour, transaction patterns, revenue generation, credit utilization and repayment risk to support strategic decisions for a bank's credit card portfolio.
