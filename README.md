@@ -13,7 +13,7 @@ Two interactive Power BI dashboards are developed to present key business metric
 ![Credit Card Transaction Report](images/Transaction_Report_Dashboard.jpg)
 
 ### Credit Card Customer Report
-![Credit Card Customer Report](images/Customer_Report_Dashboard.jpg)
+![Credit Card Customer Report](Customer Report Dashboard.jpg)
 
 ## Business Objectives
 - Analyse transaction amount, revenue and interest trends across 2023.
